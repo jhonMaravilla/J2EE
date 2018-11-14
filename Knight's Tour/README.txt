@@ -1,5 +1,5 @@
 The program is pretty straight forward. 
-	* Run index.jsp
+	* Inside WEBINF folder, run index.jsp
 	* Choose either intelligent or non intelligent method
 	* Enter the number of tries
 	* Enter your desired matrix position
