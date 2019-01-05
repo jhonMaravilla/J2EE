@@ -1,4 +1,4 @@
-![](ScreenShot/index.png=100x20)
+![drawing](ScreenShot/index.png=100x20)
 
 - The program is pretty straight forward. 
 	* Inside WebContent folder, run index.jsp
