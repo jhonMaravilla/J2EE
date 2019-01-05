@@ -1,6 +1,8 @@
+
 Step 1: To play Sheridan Jeopardy, run the index.jsp which is located inside the Webcontent folder.
 
 Step 2: Enter your name. Without your player name in the textbox, you wont be able to proceed to actual game.
+![alt text](ScreenShot/index.png =100x20)
 
 Step 3: Once name was entered, you will be redirected to the Gameboard. To play the game, pick a category shown at the top of the table then click their corresponding
 	amount. After clicking, you will be redirected to the question page. Make sure that you picked an answer to your chosen question. 
