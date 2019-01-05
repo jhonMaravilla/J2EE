@@ -1,4 +1,4 @@
-Step 1: To play Sheridan Jeopardy, run the index.jsp or go to this url: http://localhost:8080/Assignment_2_Sheridan_Jeopardy/index.jsp
+Step 1: To play Sheridan Jeopardy, run the index.jsp which is located inside the Webcontent folder.
 
 Step 2: Enter your name. Without your player name in the textbox, you wont be able to proceed to actual game.
 
