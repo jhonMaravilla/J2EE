@@ -1,0 +1,76 @@
+@charset "ISO-8859-1";
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-image:url("../Images/homeBg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	heigth: 100%;
+}
+
+#header{
+	background-color:white;
+	height:40px;
+	text-align: center;
+	font-size:30px;
+}
+
+#content{
+	margin: 12% 12%;
+}
+
+#content2{
+	margin: 8% 12%;
+}
+
+
+input.formInvalid::-webkit-input-placeholder {
+   color: red;
+}
+
+#content p{
+	color: white;
+	font-family: 'Cabin', sans-serif;
+	font-size:70px;
+	text-align:center;
+	
+}
+
+.name{
+	width: 400px;
+	height: 60px;
+	border-radius:3px;
+	text-align:center;
+	font-size:30px;
+}
+
+.submit{
+	width: 200px;
+	height: 50px;
+	border-radius:5px;
+	font-size:30px;
+}
+
+#rightFloat{
+	float:right;
+	margin-right:200px;
+	margin-top:150px;
+}
+
+#leftFloat{
+	float:left;
+	margin-left:200px;
+	margin-top:150px;
+}
+
+#invalid{
+	color:#F9CF00;
+	font-size:40px;
+	font-weight:900;
+}
+

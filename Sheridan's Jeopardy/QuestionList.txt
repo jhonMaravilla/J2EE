@@ -1,0 +1,90 @@
+Category: Canada
+
+Question 100 	: What is the most populated city in Canada?
+Answer		: Toronto
+
+Question 200 	: What is the oldest walled city that still exists north of Mexico?
+Answer		: Quebec City
+
+Question 300 	: What is the only official bilingual province in Canada?
+Answer		: New Brunswick
+
+Question 400 	: How many oceans border Canada?
+Answer		: 3
+
+Question 500 	: What is the population of Canada?
+Answer		: 36 Million
+
+
+Category: Java
+
+Question 100 	: Which of these operators is used to allocate memory to array variable in Java?
+Answer		: new
+
+Question 200 	: Which of these classes is not part of Java’s collection framework?
+Answer		: Queue
+
+Question 300 	: To prevent any method from overriding, we declare the method as?
+Answer		: final
+
+Question 400 	: A class that is declared inside a class but outside a method is known as?
+Answer		: Member Inner class"A class which cannot be instantiated is known as?
+
+Question 500 	: A class which cannot be instantiated is known as?
+Answer		: 36 Million
+
+
+
+Category: Science
+
+Question 100 	: What makes a reptile a reptile?
+Answer		: Egg-laying
+
+Question 200 	: Insulin controls the metabolism of?
+Answer		: Carbohydrates
+
+Question 300 	: Hertz is used to meassure?
+Answer		: Frequency
+
+Question 400 	: Which blood cells are called 'Soldiers' of the body?
+Answer		: White Blood Cell
+
+Question 500 	: Who among the following considered as the 'father of artificial intelligence'?
+Answer		: John McCarthy
+
+
+Category: Movie
+
+Question 100 	: In the "Toy Story" movies, what kind of dog is Buster?
+Answer		: Dachshund
+
+Question 200 	: Which transformer did Sam Witwicky drive and consider as his car in the 2007 Transformers movie?
+Answer		: Bumblebee
+
+Question 300 	: What object did Loki possesses that the Avengers team was desperate to recover?
+Answer		: The Tesseract
+
+Question 400 	: What comedian played the grinch in the 2000 film How the Grinch Stole Christmas?
+Answer		: Jim Carrey
+
+Question 500 	: In the movie Forrest Gump where did Forrest get shot?
+Answer		: His buttocks
+
+
+
+Category: Music
+
+Question 100 	: Which artist has won the Grammy Award for 'Best Rap Album' the most times?
+Answer		: Eminem
+
+Question 200 	: Which singers collaborated to record the song 'Empire State of Mind'?
+Answer		: Jay-Z & Alicia Keys
+
+Question 300 	: Which Beatle was NOT an original member of the band?
+Answer		: Ringo Starr
+
+Question 400 	: What is missing from the title of the pop group "Chilli Peppers"?
+Answer		: Red Hot
+
+Question 500 	: Which of these bands recorded these songs: "Highway To Hell", "You Shook Me All Night Long" and "Back In Black"?
+Answer		: AC/DC
