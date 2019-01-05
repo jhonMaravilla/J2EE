@@ -1,3 +1,5 @@
+<center> <img src="ScreenShot/index.png" height="500px" width="1000px"> </center>
+
 - The program is pretty straight forward. 
 	* Inside WebContent folder, run index.jsp
 	* Choose either intelligent or non intelligent method
