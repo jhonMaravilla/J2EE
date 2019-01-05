@@ -1,4 +1,5 @@
 ![alt text](ScreenShot/index.png)
+<img src="ScreenShot/index.png">
 
 - The program is pretty straight forward. 
 	* Inside WebContent folder, run index.jsp
