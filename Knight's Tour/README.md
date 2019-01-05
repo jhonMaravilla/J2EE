@@ -1,4 +1,4 @@
-<img src="ScreenShot/index.png" height="100px" width="20px">
+<center> <img src="ScreenShot/index.png" height="50px" width="500px"> </center>
 
 - The program is pretty straight forward. 
 	* Inside WebContent folder, run index.jsp
