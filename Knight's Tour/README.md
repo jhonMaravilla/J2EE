@@ -1,3 +1,5 @@
+![alt text](Project ScreenShot/index.png)
+
 - The program is pretty straight forward. 
 	* Inside WebContent folder, run index.jsp
 	* Choose either intelligent or non intelligent method
