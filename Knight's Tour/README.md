@@ -1,4 +1,4 @@
-![alt text](ScreenShot/index.png =100x20)
+![alt text](ScreenShot/index.png)
 
 - The program is pretty straight forward. 
 	* Inside WebContent folder, run index.jsp
